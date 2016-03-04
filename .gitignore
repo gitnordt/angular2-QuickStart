@@ -1,0 +1,8 @@
+  # example of excluding everything except directory foo/bar
+    #/*
+    #!/foo
+    #/foo/*
+    #!/foo/bar
+
+   .idea
+   *.log
